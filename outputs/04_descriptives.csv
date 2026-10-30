@@ -1,0 +1,82 @@
+question,group,n,option,percent
+Staff: biggest barrier,Overall,61,Lack of awareness of options,55.7
+Staff: biggest barrier,Overall,61,Hard to find items / who has them,36.1
+Staff: biggest barrier,Overall,61,Cost of transporting items,4.9
+Staff: biggest barrier,Overall,61,Other,3.3
+Staff: biggest barrier,Campus A,40,Lack of awareness of options,47.5
+Staff: biggest barrier,Campus A,40,Hard to find items / who has them,40.0
+Staff: biggest barrier,Campus A,40,Cost of transporting items,7.5
+Staff: biggest barrier,Campus A,40,Other,5.0
+Staff: biggest barrier,Campus B,21,Lack of awareness of options,71.4
+Staff: biggest barrier,Campus B,21,Hard to find items / who has them,28.6
+Staff: biggest barrier,Campus B,21,Cost of transporting items,0.0
+Staff: biggest barrier,Campus B,21,Other,0.0
+Staff: Reuse Teams group awareness,Overall,62,Not aware,59.7
+Staff: Reuse Teams group awareness,Overall,62,"Aware, not used",12.9
+Staff: Reuse Teams group awareness,Overall,62,Used it,27.4
+Staff: Reuse Teams group awareness,Campus A,41,Not aware,63.4
+Staff: Reuse Teams group awareness,Campus A,41,"Aware, not used",14.6
+Staff: Reuse Teams group awareness,Campus A,41,Used it,22.0
+Staff: Reuse Teams group awareness,Campus B,21,Not aware,52.4
+Staff: Reuse Teams group awareness,Campus B,21,"Aware, not used",9.5
+Staff: Reuse Teams group awareness,Campus B,21,Used it,38.1
+Students: biggest-impact activities,Overall,273,Recycling,76.6
+Students: biggest-impact activities,Overall,273,Using reusables,76.6
+Students: biggest-impact activities,Overall,273,Composting,49.8
+Students: biggest-impact activities,Overall,273,Reducing printing paper,35.5
+Students: biggest-impact activities,Campus A,135,Recycling,76.3
+Students: biggest-impact activities,Campus A,135,Using reusables,76.3
+Students: biggest-impact activities,Campus A,135,Composting,52.6
+Students: biggest-impact activities,Campus A,135,Reducing printing paper,37.8
+Students: biggest-impact activities,Campus B,138,Recycling,76.8
+Students: biggest-impact activities,Campus B,138,Using reusables,76.8
+Students: biggest-impact activities,Campus B,138,Composting,47.1
+Students: biggest-impact activities,Campus B,138,Reducing printing paper,33.3
+Students: programs recognized,Overall,268,Reuse program,76.1
+Students: programs recognized,Overall,268,Bottle filling stations,63.1
+Students: programs recognized,Overall,268,Donation program,56.0
+Students: programs recognized,Overall,268,Clothing swaps,54.9
+Students: programs recognized,Overall,268,Residential composting,42.5
+Students: programs recognized,Overall,268,Move in cardboard recycling,42.5
+Students: programs recognized,Overall,268,Appliance rental program,39.9
+Students: programs recognized,Overall,268,Zero waste sports events,31.7
+Students: programs recognized,Campus A,131,Reuse program,71.8
+Students: programs recognized,Campus A,131,Bottle filling stations,61.1
+Students: programs recognized,Campus A,131,Donation program,51.9
+Students: programs recognized,Campus A,131,Clothing swaps,48.1
+Students: programs recognized,Campus A,131,Residential composting,38.9
+Students: programs recognized,Campus A,131,Move in cardboard recycling,34.4
+Students: programs recognized,Campus A,131,Appliance rental program,32.8
+Students: programs recognized,Campus A,131,Zero waste sports events,26.7
+Students: programs recognized,Campus B,137,Reuse program,80.3
+Students: programs recognized,Campus B,137,Bottle filling stations,65.0
+Students: programs recognized,Campus B,137,Donation program,59.9
+Students: programs recognized,Campus B,137,Clothing swaps,61.3
+Students: programs recognized,Campus B,137,Residential composting,46.0
+Students: programs recognized,Campus B,137,Move in cardboard recycling,50.4
+Students: programs recognized,Campus B,137,Appliance rental program,46.7
+Students: programs recognized,Campus B,137,Zero waste sports events,36.5
+Students: programs wanted,Overall,270,Reusable containers,57.8
+Students: programs wanted,Overall,270,Fix it clinics,46.7
+Students: programs wanted,Overall,270,Clothing swaps,44.1
+Students: programs wanted,Overall,270,Sharing shelf,43.7
+Students: programs wanted,Overall,270,Bottle filling stations,43.7
+Students: programs wanted,Overall,270,Digital sharing platform,33.3
+Students: programs wanted,Campus A,134,Reusable containers,61.9
+Students: programs wanted,Campus A,134,Fix it clinics,47.8
+Students: programs wanted,Campus A,134,Clothing swaps,41.0
+Students: programs wanted,Campus A,134,Sharing shelf,41.8
+Students: programs wanted,Campus A,134,Bottle filling stations,47.0
+Students: programs wanted,Campus A,134,Digital sharing platform,32.1
+Students: programs wanted,Campus B,136,Reusable containers,53.7
+Students: programs wanted,Campus B,136,Fix it clinics,45.6
+Students: programs wanted,Campus B,136,Clothing swaps,47.1
+Students: programs wanted,Campus B,136,Sharing shelf,45.6
+Students: programs wanted,Campus B,136,Bottle filling stations,40.4
+Students: programs wanted,Campus B,136,Digital sharing platform,34.6
+Students: interested in learning more,Overall,263,Yes,68.4
+Students: interested in learning more,Overall,263,No,31.6
+Students: interested in learning more,Campus A,131,Yes,72.5
+Students: interested in learning more,Campus A,131,No,27.5
+Students: interested in learning more,Campus B,132,Yes,64.4
+Students: interested in learning more,Campus B,132,No,35.6

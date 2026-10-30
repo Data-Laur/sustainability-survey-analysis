@@ -1,0 +1,11 @@
+# Keep private / non-publishable items out of GitHub
+data/survey.csv
+data/clean.csv
+outputs/open_text.csv
+outputs/08_marketing_quotes.csv
+eda_report.html
+scripts/private_terms.txt
+scripts/private_renames.txt
+.venv/
+.DS_Store
+__pycache__/

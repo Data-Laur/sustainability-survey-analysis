@@ -1,0 +1,13 @@
+audience,ask,count,n,percent,ci_low,ci_high,status
+Students,"Reusable containers (cups, clamshells, etc.)",156,270,57.8,51.8,63.5,Already on the programs list*
+Students,Fix-it clinics,126,270,46.7,40.8,52.6,Not on the programs list
+Students,Clothing swaps,119,270,44.1,38.3,50.0,Already on the programs list
+Students,Sharing shelf,118,270,43.7,37.9,49.7,Not on the programs list
+Students,Bottle filling stations,118,270,43.7,37.9,49.7,Already on the programs list
+Students,Digital sharing platform,90,270,33.3,28.0,39.2,Not on the programs list
+Students,At least one of: fix-it clinics / sharing shelf / digital platform,204,270,75.6,70.1,80.3,Not on the programs list
+Students,Wants to learn more about reuse & reduction,180,263,68.4,62.6,73.8,Information
+Staff,Asked for help / more information,11,21,52.4,32.4,71.7,Staff request
+Staff,Barrier: lack of awareness of reuse/sharing options,34,61,55.7,43.3,67.5,Staff need
+Staff,Barrier: hard to find items / who has them,22,61,36.1,25.2,48.6,Staff need
+Staff,Not aware the Reuse Teams group exists,37,62,59.7,47.3,71.0,Staff need
